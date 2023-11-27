@@ -8,7 +8,8 @@ In this project, I conducted a comprehensive analysis of customer behavior, prod
 2. **SQL** - Employed SQL queries and scripts to perform exploratory data analysis and generate key performance indicators
 3. **Power Bi** - Developed interactive visualizations using Power BI to effectively communicate insights to stakeholders.
 
-   
+## Dashboard
+
 ![Olist Dashboard](https://github.com/VK1055/OList-Store-Analysis/assets/149875549/859563f8-3fcb-4140-9a08-a2a04b99dc26)
 
 
