@@ -18,7 +18,8 @@ In this project, I conducted a comprehensive analysis of customer behavior, prod
 
 
 
-## EDA 
+## Exploratory Data Analysis
+
 1. **Weekday vs. Weekend Payment Statistics**
  
 - **Description** : Analyzing payment behavior differences between weekdays and weekends.
