@@ -5,7 +5,10 @@ In this project, I conducted a comprehensive analysis of customer behavior, prod
 
 ## Tools Used
 1. **Microsoft Excel** - Utilized Power Query in Microsoft Excel for meticulous data cleaning. Addressed inconsistencies, removed duplicates, handled missing values, and standardized data formats.
+   
 2. **SQL** - Employed SQL queries and scripts to perform exploratory data analysis and generate key performance indicators
+> Link to the sql code :- [Olist SQL file](https://github.com/VK1055/OList-Store-Analysis/blob/main/olist%20SQL.sql)
+
 3. **Power Bi** - Developed interactive visualizations using Power BI to effectively communicate insights to stakeholders.
 
 ## Dashboard
